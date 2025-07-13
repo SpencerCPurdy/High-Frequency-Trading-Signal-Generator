@@ -1,15 +1,4 @@
----
-title: High-Frequency Trading Signal Generator
-emoji: ⚡
-colorFrom: gray
-colorTo: gray
-sdk: gradio
-sdk_version: 5.36.2
-app_file: app.py
-pinned: false
-license: mit
-short_description: Generate HFT signals with market microstructure analysis.
----
+Live Demo: https://huggingface.co/spaces/SpencerCPurdy/High-Frequency-Trading-Signal-Generator
 
 # High-Frequency Trading Signal Generator
 
